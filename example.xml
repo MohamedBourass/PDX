@@ -15,6 +15,10 @@
       <passportnumber>19A3299XX</passportnumber>
       <idcardnumber>STMQA456KL12XX</idcardnumber>
     </state>
+    <bankaccount>
+      
+      <iban></iban>
+    </bankaccount>
   </private>
   <public>
     <birthdate>13/10/1983</birthdate>
