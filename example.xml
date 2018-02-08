@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <personaldata userid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="personaldata.xsd">
-  <state>
-    <passportnumber>19A3299XX</passportnumber>
-    <idcardnumber>STMQA456KL12XX</idcardnumber>
-  </state>
-  <identity>
-    <firstname>Mohamed</firstname>
-    <lastname>Bourass</lastname>
+  <private>
+    <identity>
+      <firstname>Mohamed</firstname>
+      <lastname>Bourass</lastname>
+    </identity>
+    <contact>
+      <email>test@gmail.com</email>
+      <address>1 avenue des cerisiers, 91800 Brunoy, FRANCE</address>
+      <phonenumber>+33678124401</phonenumber>
+    </contact>
+    <state>
+      <passportnumber>19A3299XX</passportnumber>
+      <idcardnumber>STMQA456KL12XX</idcardnumber>
+    </state>
+  </private>
+  <public>
     <birthdate>13/10/1983</birthdate>
     <birthlocation>France</birthlocation>
     <gender>M</gender>
     <nationality>french</nationality>
-  </identity>
-  <contact>
-    <email>test@gmail.com</email>
-    <address>1 avenue des cerisiers, 91800 Brunoy, FRANCE</address>
-    <phonenumber>+33678124401</phonenumber>
-  </contact>
-  <general>
-  TODO
-  </general>
-  <body>
-    <height>1.84</height>
-    <weight>93</weight>
-    <bpm>65</bpm>
-  </body>
+    <body>
+      <height>1.84</height>
+      <weight>93</weight>
+      <bpm>65</bpm>
+    </body>
+  </public>
 </personaldata>
