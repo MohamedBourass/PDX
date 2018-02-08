@@ -16,10 +16,18 @@
     <state>
       <passportnumber>19A3299XX</passportnumber>
       <idcardnumber>STMQA456KL12XX</idcardnumber>
+      <taxofficenumber>0805360231257</taxofficenumber>
     </state>
     <bankaccount>
-      
-      <iban></iban>
+      <name>BNP Paribas</name>
+      <iban>FR7630004000031234567890143</iban>
+      <creditcardnumber>
+        <type>Visa</type>
+        <nb>4556839560184559</nb>
+        <holdername>MOHAMED BOURASS</holdername>
+        <expirationdate>09/19</expirationdate>
+        <cvc>971</cvc>
+      </creditcardnumber>
     </bankaccount>
   </private>
   <public>
