@@ -53,11 +53,23 @@
         <name>Lycée Paul Valéry - Paris 12</name>
         <period>09/2001 - 06/2004</period>
       </school>
+      <school>
+        <name>Ecole nationale supérieure d'arts et métiers</name>
+        <period>09/2004 - 07/2007</period>
+      </school>
     </scholar>
     <work>
       <company>
-        <name></name>
-        <period></period>
+        <name>Accenture</name>
+        <period>08/2007 - 04/2008</period>
+      </company>
+      <company>
+        <name>Areva NP</name>
+        <period>05/2008 - 10/2010</period>
+      </company>
+      <company>
+        <name>SGCIB</name>
+        <period>10/2010 - 09/2013</period>
       </company>
     </work>
   </public>
