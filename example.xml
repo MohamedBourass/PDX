@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <personaldata userid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="personaldata.xsd">
+  <state>
+    <passportnumber>19A3299XX</passportnumber>
+    <idcardnumber>STMQA456KL12XX</idcardnumber>
+  </state>
   <identity>
     <firstname>Mohamed</firstname>
     <lastname>Bourass</lastname>
@@ -7,8 +11,6 @@
     <birthlocation>France</birthlocation>
     <gender>M</gender>
     <nationality>french</nationality>
-    <passportnumber>19A3299XX</passportnumber>
-    <idcardnumber>STMQA456KL12XX</idcardnumber>
   </identity>
   <contact>
     <email>test@gmail.com</email>
