@@ -2,7 +2,8 @@
 
 <personaldata orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="shiporder.xsd">
   <identity>
-    <firstname></firstname>
-    <lastname></lastname>
+    <firstname>Mohamed</firstname>
+    <lastname>Bourass</lastname>
+    <passportId></passportId>
   </identity>
 </personaldata>
