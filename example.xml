@@ -9,9 +9,11 @@
       <lastname>Bourass</lastname>
     </identity>
     <contact>
-      <email>test@gmail.com</email>
-      <address>1 avenue des cerisiers, 91800 Brunoy, FRANCE</address>
+      <postaladdress>1 avenue des cerisiers, 91800 Brunoy, FRANCE</postaladdress>
       <phonenumber>+33678124401</phonenumber>
+      <email>test@gmail.com</email>
+      <ipadress>172.16.254.1</ipadress>
+      <macadress>5E:FF:56:A2:AF:15</macadress>
     </contact>
     <state>
       <passportnumber>19A3299XX</passportnumber>
