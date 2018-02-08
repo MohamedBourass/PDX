@@ -28,5 +28,21 @@
       <weight>93</weight>
       <bpm>65</bpm>
     </body>
+    <scholar>
+      <school>
+        <name>Lycée Maurice Eliot - Epinay-Sous-Sénart</name>
+        <period>09/1998 - 06/2001</period>
+      </school>
+      <school>
+        <name>Lycée Paul Valéry - Paris 12</name>
+        <period>09/2001 - 06/2004</period>
+      </school>
+    </scholar>
+    <work>
+      <company>
+        <name></name>
+        <period></period>
+      </company>
+    </work>
   </public>
 </personaldata>
