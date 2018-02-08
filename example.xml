@@ -11,12 +11,16 @@
     <idcardnumber>STMQA456KL12XX</idcardnumber>
   </identity>
   <contact>
-    <email></email>
-    <address></address>
+    <email>test@gmail.com</email>
+    <address>1 avenue des cerisiers, 91800 Brunoy, FRANCE</address>
     <phonenumber>+33678124401</phonenumber>
   </contact>
+  <general>
+  TODO
+  </general>
   <body>
     <height>1.84</height>
     <weight>93</weight>
+    <bpm>65</bpm>
   </body>
 </personaldata>
