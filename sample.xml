@@ -49,11 +49,17 @@
     <body>
       <height>1.84</height>
       <weight>93</weight>
-      <bpm>65</bpm>
       <eyes/>
       <skin/>
       <hair/>
       <voice/>
+      <healthcare>
+        <doctor>John Henry</doctor>
+        <bpm>65</bpm>
+        <bloodpressure>13</bloodpressure>
+        <sight/>
+        <hearing/>
+      </healthcare>
     </body>
     <scholar>
       <school>
