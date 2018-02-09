@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <personaldata userid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="personaldata.xsd">
   <version>0.1</version>
-  <publickey>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqGKukO1De7zhZj6+H0qtjTkVxwTCpvKe4eCZ0FPqri0cb2JZfXJ/DgYSF6vUpwmJG8wVQZKjeGcjDOL5U
-  lsuusFncCzWBQ7RKNUSesmQRMSGkVb1/3j+skZ6UtW+5u09lHNsj6tQ51s1SPrCBkedbNf0Tp0GbMJDyR4e9T04ZZwIDAQAB</publickey>
   <private>
     <identity>
       <firstname>Mohamed</firstname>
@@ -33,12 +31,14 @@
     </bankaccount>
   </private>
   <public>
+    <key>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqGKukO1De7zhZj6+H0qtjTkVxwTCpvKe4eCZ0FPqri0cb2JZfXJ/DgYSF6vUpwmJG8wVQZKjeGcjDOL5U
+  lsuusFncCzWBQ7RKNUSesmQRMSGkVb1/3j+skZ6UtW+5u09lHNsj6tQ51s1SPrCBkedbNf0Tp0GbMJDyR4e9T04ZZwIDAQAB</key>
     <birthdate>13/10/1983</birthdate>
-    <birthlocation>France</birthlocation>
+    <birthlocation/>
     <gender>M</gender>
     <nationality>french</nationality>
     <nativelanguage>french</nativelanguage>
-    <religion>muslim</religion>
+    <religion/>
     <body>
       <height>1.84</height>
       <weight>93</weight>
