@@ -14,6 +14,7 @@
       <macadress>5E:FF:56:A2:AF:15</macadress>
     </contact>
     <state>
+      <nationality>french</nationality>
       <passportnumber>19A3299XX</passportnumber>
       <idcardnumber>STMQA456KL12XX</idcardnumber>
       <taxofficenumber>0805360231257</taxofficenumber>
@@ -33,16 +34,22 @@
   <public>
     <key>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqGKukO1De7zhZj6+H0qtjTkVxwTCpvKe4eCZ0FPqri0cb2JZfXJ/DgYSF6vUpwmJG8wVQZKjeGcjDOL5U
   lsuusFncCzWBQ7RKNUSesmQRMSGkVb1/3j+skZ6UtW+5u09lHNsj6tQ51s1SPrCBkedbNf0Tp0GbMJDyR4e9T04ZZwIDAQAB</key>
+    <gender>M</gender>
     <birthdate>13/10/1983</birthdate>
     <birthlocation/>
-    <gender>M</gender>
-    <nationality>french</nationality>
-    <nativelanguage>french</nativelanguage>
-    <religion/>
+    <mindset>
+      <nativelanguage>french</nativelanguage>
+      <religion/>
+      <political/>
+    </mindset>
     <body>
       <height>1.84</height>
       <weight>93</weight>
       <bpm>65</bpm>
+      <eyes/>
+      <skin/>
+      <hair/>
+      <voice/>
     </body>
     <scholar>
       <school>
