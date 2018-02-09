@@ -38,9 +38,13 @@
     <birthdate>13/10/1983</birthdate>
     <birthlocation/>
     <mindset>
-      <nativelanguage>french</nativelanguage>
+      <languages>
+        <native>french</native>
+        <other>english</other>
+      </languages>
       <religion/>
       <political/>
+      <iq/>
     </mindset>
     <body>
       <height>1.84</height>
