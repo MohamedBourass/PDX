@@ -1,7 +1,12 @@
-1/ The data must be :
+1/ The data must be functionally :
+  - confidential
   - secure
   - portable
-  - easy to use
-  - 
-  
-  2/
+  - reliable
+  - available
+  - updatable
+
+2/ The data must be technically :
+  - encrypted
+  - structured
+  - versioned
