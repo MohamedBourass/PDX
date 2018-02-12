@@ -1,13 +1,15 @@
 1/ The data must be functionally :
-  - confidential
-  - secure
-  - portable
+  - confidential (only authorized person can see)
+  - secure (2F Factor?)
+  - portable (mobile, desktop, tablet, whatever support)
   - reliable
   - available
   - updatable
   - monetisable
 
 2/ The data must be technically :
-  - encrypted
+  - encrypted 
   - structured
-  - versioned
+  - versioned (4D-database?)
+  - lightest
+  - 
