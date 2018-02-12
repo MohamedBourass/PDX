@@ -106,5 +106,11 @@
       <name>Foobar idea</name>
       <description>My little desc. is here</description>
     </ideas>
+    <skills>
+      <skill>
+        <name>drawing</name>
+        <level>4</level>
+      </skill>
+    </skills>
   </public>
 </personaldata>
