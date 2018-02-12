@@ -90,5 +90,21 @@
         <period>10/2010 - 09/2013</period>
       </company>
     </work>
+    <items>
+      <item>
+        <type>car</type>
+        <model>F34D215290ZSV</model>
+        <date>10/2014</date>
+      </item>
+      <item>
+        <type>car</type>
+        <model>F34D215290ZSV</model>
+        <date>10/2014</date>
+      </item>
+    </items>
+    <ideas>
+      <name>Foobar idea</name>
+      <description>My little desc. is here</description>
+    </ideas>
   </public>
 </personaldata>
