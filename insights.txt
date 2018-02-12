@@ -5,6 +5,7 @@
   - reliable
   - available
   - updatable
+  - monetisable
 
 2/ The data must be technically :
   - encrypted
