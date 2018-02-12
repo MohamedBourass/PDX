@@ -109,7 +109,15 @@
     <skills>
       <skill>
         <name>drawing</name>
-        <level>4</level>
+        <level>medium</level>
+      </skill>
+      <skill>
+        <name>DIY</name>
+        <level>high</level>
+      </skill>
+      <skill>
+        <name></name>
+        <level></level>
       </skill>
     </skills>
   </public>
