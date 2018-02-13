@@ -8,3 +8,5 @@
 30/02/2018 : Find out a workflow to ensure confidentiality, security of personal data
 
 15/03/2018 : Implement the worklfow
+
+30/03/2018 : Reinforce security aspects against cookies, seasurf, virus, fishing, fake wap, ddos, sql injection, keylogger, etc.
