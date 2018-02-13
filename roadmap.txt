@@ -5,4 +5,6 @@
 - http://brutusin.org/json-forms/
 )
 
-30/02/2018 : Find out a workflow to ensure confidentiality of personal data
+30/02/2018 : Find out a workflow to ensure confidentiality, security of personal data
+
+15/03/2018 : Implement the worklfow
