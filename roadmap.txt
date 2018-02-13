@@ -1,0 +1,8 @@
+15/02/2018 : Format draft about personal data
+
+20/02/2018 : Form to be able to edit personal data (find a dynamical solution like :
+- http://www.datamech.com/XMLForm/
+- http://brutusin.org/json-forms/
+)
+
+30/02/2018 : Find out a workflow to ensure confidentiality of personal data
