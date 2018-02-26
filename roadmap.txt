@@ -1,4 +1,4 @@
-15/02/2018 : Format draft about personal data (PDXML)
+15/02/2018 : Format draft about personal data (PDXML, PDXJSON or PDXYAML)
 
 20/02/2018 : Form to be able to edit personal data (find a dynamical solution like :
 - http://www.datamech.com/XMLForm/
