@@ -1,11 +1,12 @@
-15/02/2018 : Format draft about personal data
+15/02/2018 : Format draft about personal data (PDXML)
 
 20/02/2018 : Form to be able to edit personal data (find a dynamical solution like :
 - http://www.datamech.com/XMLForm/
 - http://brutusin.org/json-forms/
 )
+--> (Update 26/02) for the moment, just focus on a solution based on JavaFX
 
-30/02/2018 : Find out a workflow to ensure confidentiality, security of personal data
+05/03/2018 : Find out a workflow to ensure the best management of personal data
 
 15/03/2018 : Implement the worklfow
 
