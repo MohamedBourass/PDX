@@ -1,13 +1,13 @@
-15/02/2018 : Format draft about personal data (PDXML, PDXJSON or PDXYAML)
+15/05/2018 : Format draft about personal data (PDXML, PDXJSON or PDXYAML)
 
-20/02/2018 : Form to be able to edit personal data (find a dynamical solution like :
+20/05/2018 : Form to be able to edit personal data (find a dynamical solution like :
 - http://www.datamech.com/XMLForm/
 - http://brutusin.org/json-forms/
 )
 --> (Update 26/02) for the moment, just focus on a solution based on JavaFX
 
-05/03/2018 : Find out a workflow to ensure the best management of personal data
+05/06/2018 : Find out a workflow to ensure the best management of personal data
 
-15/03/2018 : Implement the worklfow
+15/06/2018 : Implement the worklfow
 
-30/03/2018 : Reinforce security aspects against cookies, seasurf, virus, fishing, fake wap, ddos, sql injection, keylogger, etc.
+30/06/2018 : Reinforce security aspects against cookies, seasurf, virus, fishing, fake wap, ddos, sql injection, keylogger, etc.
